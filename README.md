@@ -25,5 +25,5 @@ Project is created with:
 Project is included accoring to user get Rick And Morty characters, choosing favorite character,
 listing characters with linear and grid, search characters by name/surname  and filter this character.
 
-![Login Page](/drawable/giris.png?raw=true "Login Page")
+![Login Page](./drawable/giris.png?raw=true "Login Page")
 
