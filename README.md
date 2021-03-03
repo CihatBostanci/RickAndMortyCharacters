@@ -4,7 +4,7 @@
 * [Features](#features)
 
 ## General info
-This project is simple Android app to learn recommended by *Google italic* [MVVM](https://developer.android.com/jetpack/guide)
+This project is simple Android app to learn recommended by *Google * [MVVM](https://developer.android.com/jetpack/guide)
 and  Repository Pattern. Besides that, try to new technology while development Android App Process
 such as [Coroutines](https://developer.android.com/kotlin/coroutines), [Room](https://developer.android.com/training/data-storage/room)
 , [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started),
@@ -25,5 +25,5 @@ Project is created with:
 Project is included accoring to user get Rick And Morty characters, choosing favorite character,
 listing characters with linear and grid, search characters by name/surname  and filter this character.
 
-![Login Page](drawable/giris.png?raw=true "Login Page")
+![Login Page](/drawable/giris.png?raw=true "Login Page")
 
