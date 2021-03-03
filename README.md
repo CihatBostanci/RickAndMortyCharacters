@@ -22,7 +22,7 @@ Project is created with:
 * IO Mockk Version: 1.10.0
 
 ## Features
-Project is included accoring to user get Rick And Morty characters, choosing favorite character,
+Project is included according to user get Rick And Morty characters, choosing favorite character,
 listing characters with linear and grid, search characters by name/surname  and filter this character.
 
 * Login Page
