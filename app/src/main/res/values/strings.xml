@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rick And Morty</string>
+    <string name="hello_blank_fragment">Hello From the otherside.</string>
+
+    <string name="alertMessageCheckConnection">Internet Bağlantınızı kontrol ediniz.</string>
+
+</resources>

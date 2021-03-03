@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/list_item"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        app:showAsAction="never"
+        android:title="List"/>
+    <item
+        android:id="@+id/grid_item"
+        android:icon="@drawable/ic_baseline_grid_on_24"
+        app:showAsAction="never"
+        android:title="Grid"/>
+    <item
+        android:id="@+id/get_all_characters"
+        android:icon="@drawable/ic_baseline_clear_all_24"
+        app:showAsAction="never"
+        android:title="Get Characters"/>
+
+    <item
+        android:id="@+id/actionSearch"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+</menu>
