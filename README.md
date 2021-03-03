@@ -25,5 +25,24 @@ Project is created with:
 Project is included accoring to user get Rick And Morty characters, choosing favorite character,
 listing characters with linear and grid, search characters by name/surname  and filter this character.
 
+* Login Page
+
 ![Login Page](https://github.com/CihatBostanci/RickAndMortyCharacters/blob/master/app/src/main/res/drawable-v24/giris.png?raw=true "Login Page")
 
+* Main Page
+![Main Page](https://github.com/CihatBostanci/RickAndMortyCharacters/blob/master/app/src/main/res/drawable-v24/main.png?raw=true "Main Page")
+
+* Grid List Character
+![Grid List Page](https://github.com/CihatBostanci/RickAndMortyCharacters/blob/master/app/src/main/res/drawable-v24/gridmain.png?raw=true "Grid Main Page")
+
+* Filter Character
+![Filter Character](https://github.com/CihatBostanci/RickAndMortyCharacters/blob/master/app/src/main/res/drawable-v24/filtermain.png?raw=true "Filter Character")
+
+* Character Detail
+![Character Detail Page](https://github.com/CihatBostanci/RickAndMortyCharacters/blob/master/app/src/main/res/drawable-v24/characterdetail.png?raw=true "Character Detail Page")
+
+* Favorite Character
+![Favorite Character](https://github.com/CihatBostanci/RickAndMortyCharacters/blob/master/app/src/main/res/drawable-v24/favoritecharacter.png?raw=true "Favorite Character")
+
+* Search Character
+![Search Character](https://github.com/CihatBostanci/RickAndMortyCharacters/blob/master/app/src/main/res/drawable-v24/searchcharacter.png?raw=true "Search Character")
